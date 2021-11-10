@@ -1,0 +1,2 @@
+# how-to-export-gantt-chart-data-to-excel-and-csv-formats
+In this quick-start project, you can learn how to export data from Syncfusion Blazor Gantt Chart in a Blazor WebAssembly app. You’ll learn how to export Gantt Chart data to Excel and CSV formats. You’ll also learn how to include hidden columns while exporting, customize the theme for exported excel document, and provide a file name for the exported document.
