@@ -1,6 +1,6 @@
 # How to Export Gantt Chart data to Excel and CSV formats
 
-The [Blazor Gantt Chart](https://www.syncfusion.com/blazor-components/blazor-gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) is a project planning and management tool that provides a Microsoft Project-like interface to display and manage hierarchical tasks with timeline details. 
+The [Blazor Gantt Chart](https://www.syncfusion.com/blazor-components/blazor-gantt-chart) is a project planning and management tool that provides a Microsoft Project-like interface to display and manage hierarchical tasks with timeline details. 
 
 In this quick-start project, you can learn how to export data from Syncfusion Blazor Gantt Chart in a Blazor Web app. You’ll learn how to export Gantt Chart data to Excel and CSV formats.
 
