@@ -1,16 +1,75 @@
-# How to Export Gantt Chart data to Excel and CSV formats
+# How to Export Gantt Chart Data to Excel and CSV Formats
 
-The [Blazor Gantt Chart](https://www.syncfusion.com/blazor-components/blazor-gantt-chart) is a project planning and management tool that provides a Microsoft Project-like interface to display and manage hierarchical tasks with timeline details. 
+The [Blazor Gantt Chart](https://www.syncfusion.com/blazor-components/blazor-gantt-chart) is a powerful project planning and management component that provides a Microsoft Project–like interface for visualizing and managing hierarchical tasks along a timeline. It enables users to plan, track, and manage project schedules efficiently by representing tasks, dependencies, milestones, and progress in a structured and interactive format.
 
-In this quick-start project, you can learn how to export data from Syncfusion Blazor Gantt Chart in a Blazor Web app. You’ll learn how to export Gantt Chart data to Excel and CSV formats.
+In this quick-start sample project, you will learn how to **export Gantt Chart data to Excel and CSV formats** in a **Blazor Web Application**. Exporting Gantt Chart data allows users to share project information with stakeholders, perform offline analysis, archive schedules, and integrate project data with external tools such as Microsoft Excel and other spreadsheet applications.
+
+This sample demonstrates how to configure export functionality, trigger export actions programmatically, and generate downloadable files that preserve the task hierarchy and scheduling information displayed in the Gantt Chart.
+
+---
+
+## Features demonstrated
+
+This project covers the following key features:
+
+- Export Gantt Chart data to **Excel (.xlsx)** format
+- Export Gantt Chart data to **CSV (.csv)** format
+- Preserve hierarchical task structure during export
+- Export task-related information such as:
+  - Task ID and task name
+  - Start and end dates
+  - Duration and progress
+  - Task dependencies and hierarchy levels
+- Integration with Syncfusion Blazor Gantt Chart APIs
+
+---
 
 ## Prerequisites
 
-* Visual Studio 2022
+Before running this project, ensure that the following requirements are met:
 
-## How to run the project
+- **Visual Studio 2026**
+- **.NET SDK** compatible with Blazor Web Applications
+- **ASP.NET and Blazor workloads** installed in Visual Studio
+- A valid **Syncfusion license** (or trial license) to run Syncfusion Blazor components
 
-* Checkout this project to a location in your disk.
-* Open the solution file using the Visual Studio 2022.
-* Restore the NuGet packages by rebuilding the solution.
-* Run the project.
+---
+
+## How to Run the Project
+
+Follow the steps below to run the sample application locally:
+
+1. Clone or download this repository to a local directory on your system.
+2. Open the solution file (`.sln`) using **Visual Studio 2022**.
+3. Restore the required **NuGet packages** by rebuilding the solution.
+4. Build the project to ensure that there are no compilation errors.
+5. Run the application using **IIS Express** or **Kestrel**.
+6. Open the application in a web browser.
+7. Navigate to the page that contains the Gantt Chart.
+8. Use the provided UI buttons or menu options to export the Gantt data to **Excel** or **CSV** format.
+
+---
+
+## Use Cases
+
+Exporting Gantt Chart data is useful in the following scenarios:
+
+- Generating project reports for stakeholders
+- Sharing project schedules in spreadsheet format
+- Performing offline analysis of task timelines
+- Archiving project planning and scheduling data
+- Integrating Gantt data with external reporting tools
+
+---
+
+## Related Links
+
+- [Syncfusion Blazor Gantt Chart](https://www.syncfusion.com/blazor-components/blazor-gantt-chart)
+- [Blazor Documentation](https://blazor.syncfusion.com/documentation/gantt-chart/excel-export)
+
+---
+
+## License
+
+This project uses **Syncfusion Blazor components**, which require a valid Syncfusion license.  
+Please refer to Syncfusion’s official licensing documentation for more details.
