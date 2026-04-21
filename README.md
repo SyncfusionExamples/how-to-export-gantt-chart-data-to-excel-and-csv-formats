@@ -40,7 +40,7 @@ Before running this project, ensure that the following requirements are met:
 Follow the steps below to run the sample application locally:
 
 1. Clone or download this repository to a local directory on your system.
-2. Open the solution file in Visual Studio 2022 or later..
+2. Open the project file (`.csproj`) in Visual Studio 2022 or later.
 3. Restore the required **NuGet packages** by rebuilding the solution.
 4. Build the project to ensure that there are no compilation errors.
 5. Run the application.
